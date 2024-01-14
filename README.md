@@ -1,2 +1,1 @@
-# myflix
-# myflix_site
+# myflix_site_project
