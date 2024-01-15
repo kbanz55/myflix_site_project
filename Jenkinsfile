@@ -4,7 +4,7 @@ pipeline {
     environment {
         PROD_USERNAME = 'kingsleyi67'
         PROD_SERVER = '34.71.202.247'
-        PROD_DIR = '/home/amedikusettor/myflix'
+        PROD_DIR = '/home/kingsleyi67/myflix'
         DOCKER_IMAGE_NAME = 'myflix-deployment'
         DOCKER_CONTAINER_NAME = 'myflix'
         DOCKER_CONTAINER_PORT = '8000'
